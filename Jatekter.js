@@ -32,15 +32,15 @@ export default class Jatekter{
         });
     }   
 
-    visszaall()
-    {
+    // visszaall()
+    // {
        
-        for (let index = 0; index < this.#allapotok.length; index++) 
-        {
-           this.#allapotok[index] = Math.random() < 0.5;
-           console.log(index)
-        }
-    }
+    //     for (let index = 0; index < this.#allapotok.length; index++) 
+    //     {
+    //        this.#allapotok[index] = Math.random() < 0.5;
+    //        console.log(index)
+    //     }
+    // }
 
     megszamlal()
     {
